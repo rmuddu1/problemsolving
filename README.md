@@ -1,2 +1,2 @@
-InterviewBit
-[Arrays](src/interviewbit/arrays/)
+#*InterviewBit  
+-[Arrays](src/interviewbit/arrays/)
