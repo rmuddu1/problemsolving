@@ -6,7 +6,7 @@
 5.[Bit Manipulation](src/interviewbit/bitmanipulation)  
 6.[Two Pointers](src/interviewbit/twopointers)  
 7.[Linked Lists](src/interviewbit/linkedlists)  
-8.[Stacks And Queues](src/interviewbit/stackandqueues)  
+8.[Stacks And Queues](src/interviewbit/stacksandqueues)  
 9.[Backtracking](src/interviewbit/backtracking)  
 10.[Hashing](src/interviewbit/hashing)  
 11.[HeapsAndMaps](src/interviewbit/heapsandmaps)  
